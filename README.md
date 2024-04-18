@@ -13,7 +13,6 @@ This repository contains an enhanced interface for managing college basketball t
 ## Usage
 To use this component, follow these steps:
 1. Import the necessary files into your project.
-2. Implement the `CollegeBasketballTeam` interface or extend the `CollegeBasketballTeamComponentSecondary` class.
-3. Customize the statistics management according to your requirements.
-4. Utilize the provided methods to add, remove, retrieve, and analyze team statistics.
+2. Customize the statistics management according to your requirements.
+3. Utilize the provided methods to add, remove, retrieve, and analyze team statistics.
 
