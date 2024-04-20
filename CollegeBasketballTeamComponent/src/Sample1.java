@@ -14,6 +14,9 @@ public final class Sample1 {
     public static void scrapeData(CollegeBasketballTeam1 team, TeamNames name) {
         // uses the methods from the component, to do things like
         // add, remove, etc... and fill the object with desired stats
+
+        team.addCustomStatistic(StatCategory.POINTS_FROM_THREE_POINTERS, 1,
+                100);
     }
 
     /**
